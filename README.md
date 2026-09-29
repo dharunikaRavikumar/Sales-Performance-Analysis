@@ -161,6 +161,21 @@ PRODUCT AND CATEGORY ANALYSIS
 ![Product and Category Analysis](dashboard-2.png.png)
 
 
+SUMMARY ANALYSIS - PART 1
+
+![Sales Performance Summary Part 1](summary-analysis1.png.png)
+
+
+SUMMARY ANALYSIS - PART 2
+
+![Sales Performance Summary Part 2](summary-analysis2.png.png)
+
+
+CUSTOMER SEGMENTATION
+
+![Customer Segmentation Analysis](customer-segmentation.png.png)
+
+
 PROJECT FILES
 
 1) Sales_Performance_Analysis_Dashboard.xlsx - Complete Excel workbook containing the raw data, analysis, dashboard, and customer segmentation.
